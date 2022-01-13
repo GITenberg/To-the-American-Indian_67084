@@ -1,0 +1,28 @@
+_repo: To-the-American-Indian_67084
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thompson, L. S. (Lucy S.)
+    alias: Thompson, Lucy S.
+    gutenberg_agent_id: '7626'
+    url: http://www.gutenberg.org/2009/agents/7626
+description: ''
+gutenberg_issued: '2022-01-02'
+identifiers:
+  gutenberg: '67084'
+language: en
+pgterms:marc904: https://archive.org/details/toamericanindian00thomrich
+pgterms:marc905: 20180316090554thompson
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Mary Glenn Krause, Charlene Taylor, Robert Tonsing and the Online
+  Distributed Proofreading Team at https://www.pgdp.net (This file was produced from
+  images generously made available by The Internet Archive/American Libraries.)
+publication_note: United States :Mrs. Lucy Thompson,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: To the American Indian
+url: http://www.gutenberg.org/ebooks/67084
